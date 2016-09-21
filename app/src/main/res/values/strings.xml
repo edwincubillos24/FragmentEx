@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DC COMICS</string>
+    <string name="superman">SUPERMAN</string>
+    <string name="batman">BATMAN</string>
+    <string name="flash">FLASH</string>
+    <string name="poderesSuperman">super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+    <string name="poderesBatman">exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology</string>
+    <string name="poderesFlash">super speed, intangibility, superhuman agility</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+</resources>
